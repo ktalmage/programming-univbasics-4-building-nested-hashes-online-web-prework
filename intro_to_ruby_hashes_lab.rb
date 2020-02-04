@@ -53,4 +53,3 @@ def monopoly_with_fourth_tier
 }
 end
 
-puts monopoly[:railroads][:names]][:reading_railroad][:mortgage_value]
